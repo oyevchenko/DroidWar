@@ -1,0 +1,20 @@
+2020-03-02 18:43:25 INFO  Main:19 - Let`s start the battle
+2020-03-02 18:43:41 INFO  EntranceModel:58 - NEW USER WAS REGISTER
+2020-03-02 18:44:02 INFO  GameController:37 - FIGHT PROCESS HAS BEEN STARTED
+2020-03-02 18:44:47 INFO  Main:19 - Let`s start the battle
+2020-03-02 18:46:26 INFO  Main:19 - Let`s start the battle
+2020-03-02 18:46:36 INFO  EntranceModel:26 - ENTRANCE STATUS WAS IDENTIFIED
+2020-03-02 18:46:55 INFO  EntranceModel:58 - NEW USER WAS REGISTER
+2020-03-02 18:47:05 INFO  GameController:37 - FIGHT PROCESS HAS BEEN STARTED
+2020-03-02 18:47:17 FATAL GameController:32 - DroidDeadException
+main.ua.javaextern.aleksandr.droidtask.mvc_game.DroidDeadException
+	at main.ua.javaextern.aleksandr.droidtask.mvc_game.GameController.processFight(GameController.java:55)
+	at main.ua.javaextern.aleksandr.droidtask.mvc_game.GameController.process(GameController.java:28)
+	at main.ua.javaextern.aleksandr.droidtask.Main.main(Main.java:34)
+2020-03-02 18:47:44 INFO  Main:19 - Let`s start the battle
+2020-03-02 18:47:53 INFO  Main:19 - Let`s start the battle
+2020-03-02 18:48:02 INFO  Main:19 - Let`s start the battle
+2020-03-02 18:48:20 INFO  Main:19 - Let`s start the battle
+2020-03-02 18:48:28 INFO  EntranceModel:26 - ENTRANCE STATUS WAS IDENTIFIED
+2020-03-02 18:48:57 INFO  Main:19 - Let`s start the battle
+2020-03-02 18:49:25 INFO  GameController:37 - FIGHT PROCESS HAS BEEN STARTED
